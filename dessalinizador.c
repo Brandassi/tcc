@@ -1,4 +1,4 @@
-#include <Adafruit_LiquidCrystal.h>
+#include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
 
 Adafruit_LiquidCrystal lcd(0);
